@@ -1,1 +1,2 @@
-# broly-bot
+# BrolyBot
+run.py 실행
